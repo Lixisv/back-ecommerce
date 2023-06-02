@@ -1,0 +1,321 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "fruits",
+      "name": "Apple",
+      "price": 4000,
+      "image": "https://elmedicointeractivo.com/wp-content/uploads/2020/01/manzana.jpg"
+    },
+    {
+      "id": 2,
+      "category": "fruits",
+      "name": "Strawberry",
+      "price": 6000,
+      "image": "https://thumbs.dreamstime.com/b/tres-fresas-con-la-hoja-de-fresa-en-el-fondo-blanco-114284301.jpg"
+    },
+    {
+      "id": 3,
+      "category": "fruits",
+      "name": "Grapes",
+      "price": 4000,
+      "image": "https://nutricionyfarmacia.com/blog/wp-content/uploads/2022/09/Uvas.jpg"
+    },
+    {
+      "id": 4,
+      "category": "fruits",
+      "name": "Watermelon",
+      "price": 6000,
+      "image": "https://sicarfarms.com/wp-content/uploads/2021/01/Sandia-1.png"
+    },
+    {
+      "id": 5,
+      "category": "fruits",
+      "name": "Pear",
+      "price": 3000,
+      "image": "https://www.gob.mx/cms/uploads/image/file/425838/Pera_3.jpg"
+    },
+    {
+      "id": 6,
+      "category": "vegetable",
+      "name": "Tomatoes",
+      "price": 3000,
+      "image": "https://img.freepik.com/foto-gratis/tomate-rojo-fresco-aislado-blanco_1205-548.jpg?1"
+    },
+    {
+      "id": 7,
+      "category": "vegetable",
+      "name": "Carrots",
+      "price": 3000,
+      "image": "https://5aldia.cl/wp-content/uploads/2018/03/zanahoria.jpg"
+    },
+    {
+      "id": 8,
+      "category": "vegetable",
+      "name": "Lettuce",
+      "price": 4000,
+      "image": "https://static.vecteezy.com/system/resources/previews/005/582/269/original/lettuce-salad-leaf-isolated-on-white-background-with-clipping-path-free-photo.jpg"
+    },
+    {
+      "id": 9,
+      "category": "vegetable",
+      "name": "Onions",
+      "price": 5000,
+      "image": "https://img.freepik.com/fotos-premium/cebollas-sobre-fondo-blanco_73289-30.jpg"
+    },
+    {
+      "id": 10,
+      "category": "vegetable",
+      "name": "Garlic",
+      "price": 2000,
+      "image": "https://t3.ftcdn.net/jpg/02/16/22/86/360_F_216228631_5dyDk4KXEuHWNPQ7ZrDcArpzg1OtOyrK.jpg"
+    },
+    {
+      "id": 11,
+      "category": "beverages",
+      "name": "Orange juice",
+      "price": 6000,
+      "image": "https://media.istockphoto.com/id/98296953/es/foto/lim%C3%B3n.jpg?s=612x612&w=0&k=20&c=DQj5oFLJiExsuh_m3MeEL_52ThgkoQUIwg20D_ImQ5E="
+    },
+    {
+      "id": 12,
+      "category": "beverages",
+      "name": "Grapes juice",
+      "price": 7000,
+      "image": "https://www.rebanando.com/cache/slideshow/1-jpg-14.jpeg/2cb6823c975ee09b0d93e071c71c86d5.jpg"
+    },
+    {
+      "id": 13,
+      "category": "beverages",
+      "name": "Lemonade",
+      "price": 6000,
+      "image": "https://img.freepik.com/fotos-premium/agua-limon-botella-rodajas-limon-lado-aislado_480912-359.jpg?w=2000"
+    },
+    {
+      "id": 14,
+      "category": "beverages",
+      "name": "Coconut water",
+      "price": 8000,
+      "image": "https://www.shutterstock.com/image-photo/bottles-coconut-water-fresh-nuts-260nw-1049863709.jpg"
+    },
+    {
+      "id": 15,
+      "category": "beverages",
+      "name": "Almond Milk",
+      "price": 8000,
+      "image": "https://thumbs.dreamstime.com/b/leche-de-la-almendra-43976348.jpg"
+    },
+    {
+      "id": 16,
+      "category": "snacks",
+      "name": "Chocolate",
+      "price": 8000,
+      "image": "https://www.manarchile.cl/wp-content/uploads/2018/05/Chocprem-leche.jpg"
+    },
+    {
+      "id": 17,
+      "category": "snacks",
+      "name": "Cookies",
+      "price": 5000,
+      "image": "https://www.pngmart.com/files/16/Chocolate-Cookie-PNG-Transparent-Image.png"
+    },
+    {
+      "id": 18,
+      "category": "snacks",
+      "name": "Donuts",
+      "price": 6000,
+      "image": "https://d500.epimg.net/cincodias/imagenes/2015/01/12/franquicias/1421055269_966585_1421055419_noticia_normal.jpg"
+    },
+    {
+      "id": 19,
+      "category": "snacks",
+      "name": "Chips",
+      "price": 5000,
+      "image": "https://png.pngtree.com/png-clipart/20221001/original/pngtree-crispy-potato-chips-flying-into-the-pack-png-image_8648294.png"
+    },
+    {
+      "id": 20,
+      "category": "snacks",
+      "name": "Jelly",
+      "price": 4000,
+      "image": "https://www.pngall.com/wp-content/uploads/4/Jelly-Belly-PNG-Image-File.png"
+    },
+    {
+      "id": 21,
+      "category": "nuts",
+      "name": "Almonds",
+      "price": 8000,
+      "image": "https://biotrendies.com/wp-content/uploads/2015/06/almendras.jpg"
+    },
+    {
+      "id": 22,
+      "category": "nuts",
+      "name": "Peanut",
+      "price": 6000,
+      "image": "https://t3.ftcdn.net/jpg/01/95/15/60/360_F_195156030_YVUZu7UhCObsdYTLaYwFU8Buj9ETYVRw.jpg"
+    },
+    {
+      "id": 23,
+      "category": "nuts",
+      "name": "Walnuts",
+      "price": 7000,
+      "image": "https://pngimg.com/uploads/walnut/walnut_PNG26.png"
+    },
+    {
+      "id": 24,
+      "category": "nuts",
+      "name": "Pistachio",
+      "price": 9000,
+      "image": "https://s2.ppllstatics.com/elcomercio/www/multimedia/202002/26/media/cortadas/psitachos-kL9H-U1002934566050QH-1248x770@El%20Comercio.jpg"
+    },
+    {
+      "id": 25,
+      "category": "nuts",
+      "name": "Hazelnut",
+      "price": 9000,
+      "image": "https://www.agmrc.org/media/cms/hazelnuts_58E522CA282E4.jpg"
+    },
+    {
+      "id": 26,
+      "category": "proteins",
+      "name": "Beef",
+      "price": 25000,
+      "image": "https://clipart-library.com/new_gallery/193-1937586_download-picture-hq-image-transparent-background-meat-png.png"
+    },
+    {
+      "id": 27,
+      "category": "proteins",
+      "name": "Chicken",
+      "price": 20000,
+      "image": "https://canduran.com/wp/wp-content/uploads/2017/02/pimienta-alimentos-crudos-blanco-fresco_1203-5518.jpg"
+    },
+    {
+      "id": 28,
+      "category": "proteins",
+      "name": "Turkey",
+      "price": 25000,
+      "image": "https://www.pngmart.com/files/22/Thanksgiving-Turkey-Meat-PNG-Photos.png"
+    },
+    {
+      "id": 29,
+      "category": "proteins",
+      "name": "Eggs",
+      "price": 18000,
+      "image": "https://kurera.se/wp-content/uploads/2017/01/eko_agg_580-580x416.jpg"
+    },
+    {
+      "id": 30,
+      "category": "proteins",
+      "name": "Shrimp",
+      "price": 25000,
+      "image": "https://thumbs.dreamstime.com/b/plate-shrimp-cocktail-19983991.jpg"
+    }
+  ],
+  "compras": [
+    {
+      "datosCliente": {
+        "nombre": "ximena",
+        "direccion": "cra 50 # 12 56",
+        "telefono": "3005053958"
+      },
+      "productos": [
+        {
+          "id": 1,
+          "category": "fruits",
+          "name": "Apple",
+          "price": 4000,
+          "image": "https://elmedicointeractivo.com/wp-content/uploads/2020/01/manzana.jpg",
+          "quantity": 1,
+          "total": 4000
+        },
+        {
+          "id": 3,
+          "category": "fruits",
+          "name": "Grapes",
+          "price": 4000,
+          "image": "https://nutricionyfarmacia.com/blog/wp-content/uploads/2022/09/Uvas.jpg",
+          "quantity": 1,
+          "total": 4000
+        },
+        {
+          "id": 4,
+          "category": "fruits",
+          "name": "Watermelon",
+          "price": 6000,
+          "image": "https://sicarfarms.com/wp-content/uploads/2021/01/Sandia-1.png",
+          "quantity": 2,
+          "total": 12000
+        }
+      ],
+      "total": 20000,
+      "id": 1
+    },
+    {
+      "datosCliente": {
+        "nombre": "daniela",
+        "direccion": "cra 65 47 85",
+        "telefono": "3014047456"
+      },
+      "productos": [
+        {
+          "id": 2,
+          "category": "fruits",
+          "name": "Strawberry",
+          "price": 6000,
+          "image": "https://thumbs.dreamstime.com/b/tres-fresas-con-la-hoja-de-fresa-en-el-fondo-blanco-114284301.jpg",
+          "quantity": 1,
+          "total": 6000
+        },
+        {
+          "id": 14,
+          "category": "beverages",
+          "name": "Coconut water",
+          "price": 8000,
+          "image": "https://www.shutterstock.com/image-photo/bottles-coconut-water-fresh-nuts-260nw-1049863709.jpg",
+          "quantity": 1,
+          "total": 8000
+        },
+        {
+          "id": 20,
+          "category": "snacks",
+          "name": "Jelly",
+          "price": 4000,
+          "image": "https://www.pngall.com/wp-content/uploads/4/Jelly-Belly-PNG-Image-File.png",
+          "quantity": 1,
+          "total": 4000
+        }
+      ],
+      "total": 18000,
+      "id": 2
+    },
+    {
+      "datosCliente": {
+        "nombre": "alex",
+        "direccion": "cra 52 45 65",
+        "telefono": "301254"
+      },
+      "productos": [
+        {
+          "id": 2,
+          "category": "fruits",
+          "name": "Strawberry",
+          "price": 6000,
+          "image": "https://thumbs.dreamstime.com/b/tres-fresas-con-la-hoja-de-fresa-en-el-fondo-blanco-114284301.jpg",
+          "quantity": 1,
+          "total": 6000
+        },
+        {
+          "id": 6,
+          "category": "vegetable",
+          "name": "Tomatoes",
+          "price": 3000,
+          "image": "https://img.freepik.com/foto-gratis/tomate-rojo-fresco-aislado-blanco_1205-548.jpg?1",
+          "quantity": 1,
+          "total": 3000
+        }
+      ],
+      "total": 9000,
+      "id": 3
+    }
+  ]
+}
